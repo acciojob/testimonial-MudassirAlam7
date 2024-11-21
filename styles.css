@@ -25,11 +25,16 @@ flex-direction : column;
 	line-height : 1.5;
 	color : #333;
 }
-.testimonial-author{
-	text-align : right;
-	font-style : italic;
-	color : #555;
-	margin-top: 10px;
+.testimonial strong {
+      display: block;
+      text-align: right;
+      font-style: italic;;
+      color: #333;
+	  font-size : 15px;
+	font-weight : normal;
+	
+      margin-top: 10px;
+    }
 	
 }
 #heading{
